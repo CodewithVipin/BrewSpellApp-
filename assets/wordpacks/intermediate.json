@@ -1,0 +1,2397 @@
+{
+    "name": "Intermediate Pack",
+    "words": [
+        {
+            "correct": "abundant",
+            "distractors": [
+                "abundent",
+                "abundunt",
+                "abundantt"
+            ]
+        },
+        {
+            "correct": "absorb",
+            "distractors": [
+                "absorb",
+                "absorrb",
+                "absorbbe"
+            ]
+        },
+        {
+            "correct": "accelerate",
+            "distractors": [
+                "acclerate",
+                "accelarate",
+                "acceleerate"
+            ]
+        },
+        {
+            "correct": "accessible",
+            "distractors": [
+                "accessable",
+                "acsessible",
+                "accessibel"
+            ]
+        },
+        {
+            "correct": "accomplish",
+            "distractors": [
+                "acomplish",
+                "accomplissh",
+                "accomplise"
+            ]
+        },
+        {
+            "correct": "accuracy",
+            "distractors": [
+                "accurasy",
+                "accuressy",
+                "acuracy"
+            ]
+        },
+        {
+            "correct": "activate",
+            "distractors": [
+                "activete",
+                "acivate",
+                "activeate"
+            ]
+        },
+        {
+            "correct": "adapt",
+            "distractors": [
+                "adappt",
+                "adpt",
+                "adapet"
+            ]
+        },
+        {
+            "correct": "addressing",
+            "distractors": [
+                "adressing",
+                "adresssing",
+                "addressin"
+            ]
+        },
+        {
+            "correct": "adequate",
+            "distractors": [
+                "adequite",
+                "adequet",
+                "adequeate"
+            ]
+        },
+        {
+            "correct": "adhesive",
+            "distractors": [
+                "adhesve",
+                "adhessive",
+                "adesive"
+            ]
+        },
+        {
+            "correct": "adjacent",
+            "distractors": [
+                "adjascent",
+                "adjecent",
+                "adjecant"
+            ]
+        },
+        {
+            "correct": "adjust",
+            "distractors": [
+                "ajdust",
+                "adjustt",
+                "adgust"
+            ]
+        },
+        {
+            "correct": "administer",
+            "distractors": [
+                "administar",
+                "adminnister",
+                "administerr"
+            ]
+        },
+        {
+            "correct": "advanced",
+            "distractors": [
+                "advansed",
+                "advancced",
+                "adwanced"
+            ]
+        },
+        {
+            "correct": "advantage",
+            "distractors": [
+                "advantige",
+                "adwantage",
+                "advantagee"
+            ]
+        },
+        {
+            "correct": "aggressive",
+            "distractors": [
+                "agressive",
+                "aggresive",
+                "aggressiv"
+            ]
+        },
+        {
+            "correct": "allocate",
+            "distractors": [
+                "alllocate",
+                "allokate",
+                "alocate"
+            ]
+        },
+        {
+            "correct": "alternative",
+            "distractors": [
+                "alternitive",
+                "aternative",
+                "altarnative"
+            ]
+        },
+        {
+            "correct": "amateur",
+            "distractors": [
+                "amateure",
+                "amature",
+                "ameteur"
+            ]
+        },
+        {
+            "correct": "ambitious",
+            "distractors": [
+                "ambicious",
+                "ambitous",
+                "ambitios"
+            ]
+        },
+        {
+            "correct": "analysis",
+            "distractors": [
+                "analisis",
+                "analysiss",
+                "analisys"
+            ]
+        },
+        {
+            "correct": "ancestor",
+            "distractors": [
+                "ancestar",
+                "ancister",
+                "anscestor"
+            ]
+        },
+        {
+            "correct": "apologize",
+            "distractors": [
+                "apologise",
+                "appologize",
+                "apolagize"
+            ]
+        },
+        {
+            "correct": "apparent",
+            "distractors": [
+                "apparant",
+                "appearent",
+                "aparent"
+            ]
+        },
+        {
+            "correct": "appetite",
+            "distractors": [
+                "apetite",
+                "appitite",
+                "appatite"
+            ]
+        },
+        {
+            "correct": "appliance",
+            "distractors": [
+                "applience",
+                "applliance",
+                "aplianse"
+            ]
+        },
+        {
+            "correct": "appreciate",
+            "distractors": [
+                "appriciate",
+                "appreciaet",
+                "appreciaate"
+            ]
+        },
+        {
+            "correct": "approach",
+            "distractors": [
+                "approch",
+                "approache",
+                "aproach"
+            ]
+        },
+        {
+            "correct": "appropriate",
+            "distractors": [
+                "apropriate",
+                "approprate",
+                "appropriatee"
+            ]
+        },
+        {
+            "correct": "approximate",
+            "distractors": [
+                "aproximate",
+                "approxamate",
+                "approximatte"
+            ]
+        },
+        {
+            "correct": "arbitrary",
+            "distractors": [
+                "arbitary",
+                "arbitrry",
+                "arbetrary"
+            ]
+        },
+        {
+            "correct": "architecture",
+            "distractors": [
+                "architechture",
+                "architacture",
+                "archtecture"
+            ]
+        },
+        {
+            "correct": "arranged",
+            "distractors": [
+                "aranged",
+                "arrangd",
+                "arrangedd"
+            ]
+        },
+        {
+            "correct": "artistic",
+            "distractors": [
+                "artisitc",
+                "artstic",
+                "artisticc"
+            ]
+        },
+        {
+            "correct": "ascend",
+            "distractors": [
+                "ascand",
+                "asend",
+                "ascendd"
+            ]
+        },
+        {
+            "correct": "assignment",
+            "distractors": [
+                "asignment",
+                "assignmant",
+                "assignmment"
+            ]
+        },
+        {
+            "correct": "assistance",
+            "distractors": [
+                "assistnce",
+                "asistance",
+                "assistence"
+            ]
+        },
+        {
+            "correct": "assumption",
+            "distractors": [
+                "asumption",
+                "assumtion",
+                "assumptin"
+            ]
+        },
+        {
+            "correct": "atmosphere",
+            "distractors": [
+                "atmosphare",
+                "atmosfere",
+                "atmoshere"
+            ]
+        },
+        {
+            "correct": "attempt",
+            "distractors": [
+                "atempt",
+                "attampt",
+                "attamptt"
+            ]
+        },
+        {
+            "correct": "audience",
+            "distractors": [
+                "audince",
+                "audeince",
+                "audiece"
+            ]
+        },
+        {
+            "correct": "automatic",
+            "distractors": [
+                "automattic",
+                "autometic",
+                "auttomatic"
+            ]
+        },
+        {
+            "correct": "available",
+            "distractors": [
+                "avalible",
+                "availble",
+                "availlable"
+            ]
+        },
+        {
+            "correct": "average",
+            "distractors": [
+                "averige",
+                "avrage",
+                "aaverage"
+            ]
+        },
+        {
+            "correct": "awkward",
+            "distractors": [
+                "akward",
+                "awkwerd",
+                "awckward"
+            ]
+        },
+        {
+            "correct": "bachelor",
+            "distractors": [
+                "bachlor",
+                "bachellor",
+                "bacholor"
+            ]
+        },
+        {
+            "correct": "barrier",
+            "distractors": [
+                "bariar",
+                "barrierre",
+                "barrieer"
+            ]
+        },
+        {
+            "correct": "behaviour",
+            "distractors": [
+                "behavour",
+                "behaviur",
+                "behaivor"
+            ]
+        },
+        {
+            "correct": "beneficial",
+            "distractors": [
+                "benefical",
+                "benificial",
+                "beneficiel"
+            ]
+        },
+        {
+            "correct": "biology",
+            "distractors": [
+                "bialogy",
+                "biollogy",
+                "biolgy"
+            ]
+        },
+        {
+            "correct": "brilliant",
+            "distractors": [
+                "briliant",
+                "brillient",
+                "brillliant"
+            ]
+        },
+        {
+            "correct": "capacity",
+            "distractors": [
+                "capasity",
+                "capicity",
+                "capcity"
+            ]
+        },
+        {
+            "correct": "categorize",
+            "distractors": [
+                "catagorize",
+                "categrize",
+                "categorise"
+            ]
+        },
+        {
+            "correct": "cautious",
+            "distractors": [
+                "cautios",
+                "cautius",
+                "cautiouss"
+            ]
+        },
+        {
+            "correct": "cemetery",
+            "distractors": [
+                "cemetary",
+                "cementary",
+                "cemetry"
+            ]
+        },
+        {
+            "correct": "ceremony",
+            "distractors": [
+                "ceremoney",
+                "seremony",
+                "ceremoni"
+            ]
+        },
+        {
+            "correct": "challenge",
+            "distractors": [
+                "chalenge",
+                "challange",
+                "challenje"
+            ]
+        },
+        {
+            "correct": "characteristic",
+            "distractors": [
+                "charactristic",
+                "characteristc",
+                "chracteristic"
+            ]
+        },
+        {
+            "correct": "chemistry",
+            "distractors": [
+                "chemestry",
+                "chemistri",
+                "chamistry"
+            ]
+        },
+        {
+            "correct": "chronicle",
+            "distractors": [
+                "chronical",
+                "cronicle",
+                "chronickle"
+            ]
+        },
+        {
+            "correct": "circulate",
+            "distractors": [
+                "cirkulate",
+                "circlate",
+                "circulatee"
+            ]
+        },
+        {
+            "correct": "citizen",
+            "distractors": [
+                "cittizen",
+                "citisen",
+                "cittezen"
+            ]
+        },
+        {
+            "correct": "collapse",
+            "distractors": [
+                "collaps",
+                "colapse",
+                "collapsee"
+            ]
+        },
+        {
+            "correct": "colleague",
+            "distractors": [
+                "collegue",
+                "coleague",
+                "collaegue"
+            ]
+        },
+        {
+            "correct": "commander",
+            "distractors": [
+                "comander",
+                "commnder",
+                "commendar"
+            ]
+        },
+        {
+            "correct": "committee",
+            "distractors": [
+                "commitee",
+                "comittee",
+                "committe"
+            ]
+        },
+        {
+            "correct": "communication",
+            "distractors": [
+                "commnication",
+                "comunication",
+                "communicaton"
+            ]
+        },
+        {
+            "correct": "comparison",
+            "distractors": [
+                "comparision",
+                "comparsion",
+                "comparrisan"
+            ]
+        },
+        {
+            "correct": "competent",
+            "distractors": [
+                "competant",
+                "compettent",
+                "compitent"
+            ]
+        },
+        {
+            "correct": "competitor",
+            "distractors": [
+                "compettitor",
+                "competiter",
+                "competetor"
+            ]
+        },
+        {
+            "correct": "complexity",
+            "distractors": [
+                "complexety",
+                "complexcity",
+                "complexty"
+            ]
+        },
+        {
+            "correct": "component",
+            "distractors": [
+                "componant",
+                "compunent",
+                "componant"
+            ]
+        },
+        {
+            "correct": "comprehensive",
+            "distractors": [
+                "comprehesive",
+                "comprehansive",
+                "comprehsive"
+            ]
+        },
+        {
+            "correct": "compromise",
+            "distractors": [
+                "compramise",
+                "comprimise",
+                "compromize"
+            ]
+        },
+        {
+            "correct": "conclude",
+            "distractors": [
+                "concluede",
+                "conclode",
+                "counclude"
+            ]
+        },
+        {
+            "correct": "concrete",
+            "distractors": [
+                "concreet",
+                "concete",
+                "concrite"
+            ]
+        },
+        {
+            "correct": "conduct",
+            "distractors": [
+                "conduuct",
+                "condct",
+                "conduck"
+            ]
+        },
+        {
+            "correct": "conference",
+            "distractors": [
+                "conferance",
+                "confrence",
+                "conferense"
+            ]
+        },
+        {
+            "correct": "confidence",
+            "distractors": [
+                "confidnce",
+                "confindence",
+                "confidance"
+            ]
+        },
+        {
+            "correct": "consequence",
+            "distractors": [
+                "consquence",
+                "consequance",
+                "consequnce"
+            ]
+        },
+        {
+            "correct": "consideration",
+            "distractors": [
+                "consideretion",
+                "considration",
+                "consideretion"
+            ]
+        },
+        {
+            "correct": "consistent",
+            "distractors": [
+                "consistant",
+                "consisstant",
+                "conssistent"
+            ]
+        },
+        {
+            "correct": "conspiracy",
+            "distractors": [
+                "conspirasy",
+                "conspiricy",
+                "conspirracy"
+            ]
+        },
+        {
+            "correct": "constant",
+            "distractors": [
+                "constent",
+                "constnat",
+                "consstant"
+            ]
+        },
+        {
+            "correct": "construct",
+            "distractors": [
+                "construkt",
+                "contruct",
+                "costruct"
+            ]
+        },
+        {
+            "correct": "consult",
+            "distractors": [
+                "consalt",
+                "consultt",
+                "cunsult"
+            ]
+        },
+        {
+            "correct": "contagious",
+            "distractors": [
+                "contagous",
+                "contageous",
+                "contagios"
+            ]
+        },
+        {
+            "correct": "contemporary",
+            "distractors": [
+                "contempory",
+                "contemperary",
+                "contemprary"
+            ]
+        },
+        {
+            "correct": "continuous",
+            "distractors": [
+                "continous",
+                "continious",
+                "conttinuous"
+            ]
+        },
+        {
+            "correct": "controversy",
+            "distractors": [
+                "controvercy",
+                "controvercyy",
+                "controversy"
+            ]
+        },
+        {
+            "correct": "convenient",
+            "distractors": [
+                "convinient",
+                "convenint",
+                "convinent"
+            ]
+        },
+        {
+            "correct": "convinced",
+            "distractors": [
+                "convinsed",
+                "convinceed",
+                "convinccd"
+            ]
+        },
+        {
+            "correct": "cooperate",
+            "distractors": [
+                "coperate",
+                "co-operate",
+                "cooperatee"
+            ]
+        },
+        {
+            "correct": "coordinate",
+            "distractors": [
+                "cordinate",
+                "coordinete",
+                "coordanate"
+            ]
+        },
+        {
+            "correct": "corporate",
+            "distractors": [
+                "corparate",
+                "corporrate",
+                "corporat"
+            ]
+        },
+        {
+            "correct": "correspond",
+            "distractors": [
+                "corresspond",
+                "corresbond",
+                "corespond"
+            ]
+        },
+        {
+            "correct": "courageous",
+            "distractors": [
+                "couragous",
+                "coragous",
+                "courrageous"
+            ]
+        },
+        {
+            "correct": "courtesy",
+            "distractors": [
+                "courtesey",
+                "courtsey",
+                "courtecy"
+            ]
+        },
+        {
+            "correct": "criticism",
+            "distractors": [
+                "critticism",
+                "critism",
+                "critisism"
+            ]
+        },
+        {
+            "correct": "crystal",
+            "distractors": [
+                "cristal",
+                "crystel",
+                "chrystal"
+            ]
+        },
+        {
+            "correct": "culinary",
+            "distractors": [
+                "culnary",
+                "culinery",
+                "cullinary"
+            ]
+        },
+        {
+            "correct": "currency",
+            "distractors": [
+                "currancy",
+                "currence",
+                "curency"
+            ]
+        },
+        {
+            "correct": "damage",
+            "distractors": [
+                "damige",
+                "dammage",
+                "damege"
+            ]
+        },
+        {
+            "correct": "debris",
+            "distractors": [
+                "debres",
+                "debriis",
+                "debrees"
+            ]
+        },
+        {
+            "correct": "decision",
+            "distractors": [
+                "decission",
+                "decison",
+                "desision"
+            ]
+        },
+        {
+            "correct": "declare",
+            "distractors": [
+                "declere",
+                "declaare",
+                "declear"
+            ]
+        },
+        {
+            "correct": "decorate",
+            "distractors": [
+                "deccorate",
+                "decoratte",
+                "decorrate"
+            ]
+        },
+        {
+            "correct": "dedicate",
+            "distractors": [
+                "dedecate",
+                "dedikate",
+                "deddicate"
+            ]
+        },
+        {
+            "correct": "defensive",
+            "distractors": [
+                "defencive",
+                "defenseve",
+                "defensiv"
+            ]
+        },
+        {
+            "correct": "deliberate",
+            "distractors": [
+                "delibrate",
+                "delibberate",
+                "deliberatte"
+            ]
+        },
+        {
+            "correct": "delicate",
+            "distractors": [
+                "delicete",
+                "dellicatte",
+                "dellicate"
+            ]
+        },
+        {
+            "correct": "democracy",
+            "distractors": [
+                "democrazy",
+                "democrcy",
+                "democrecy"
+            ]
+        },
+        {
+            "correct": "demonstrate",
+            "distractors": [
+                "demontrate",
+                "demonstratte",
+                "demonstrte"
+            ]
+        },
+        {
+            "correct": "denial",
+            "distractors": [
+                "deniel",
+                "denyal",
+                "danial"
+            ]
+        },
+        {
+            "correct": "density",
+            "distractors": [
+                "densety",
+                "denssity",
+                "dencity"
+            ]
+        },
+        {
+            "correct": "department",
+            "distractors": [
+                "departmant",
+                "depattment",
+                "departement"
+            ]
+        },
+        {
+            "correct": "departure",
+            "distractors": [
+                "departture",
+                "depparture",
+                "depature"
+            ]
+        },
+        {
+            "correct": "dependable",
+            "distractors": [
+                "dependible",
+                "depandable",
+                "dependabel"
+            ]
+        },
+        {
+            "correct": "deprive",
+            "distractors": [
+                "deprivee",
+                "depribe",
+                "depryve"
+            ]
+        },
+        {
+            "correct": "describe",
+            "distractors": [
+                "discribe",
+                "describ",
+                "descrribe"
+            ]
+        },
+        {
+            "correct": "desperate",
+            "distractors": [
+                "desparat",
+                "desperrate",
+                "desperatte"
+            ]
+        },
+        {
+            "correct": "determine",
+            "distractors": [
+                "determain",
+                "determinne",
+                "deteremine"
+            ]
+        },
+        {
+            "correct": "develop",
+            "distractors": [
+                "develope",
+                "devellop",
+                "devlop"
+            ]
+        },
+        {
+            "correct": "devote",
+            "distractors": [
+                "devotte",
+                "devtoe",
+                "devot"
+            ]
+        },
+        {
+            "correct": "diagnose",
+            "distractors": [
+                "diagonse",
+                "diagnoze",
+                "diognose"
+            ]
+        },
+        {
+            "correct": "dialogue",
+            "distractors": [
+                "dialog",
+                "dailogue",
+                "diologue"
+            ]
+        },
+        {
+            "correct": "dignity",
+            "distractors": [
+                "diggnity",
+                "dignitey",
+                "dignety"
+            ]
+        },
+        {
+            "correct": "dilemma",
+            "distractors": [
+                "dilemna",
+                "dilema",
+                "dilamema"
+            ]
+        },
+        {
+            "correct": "dimension",
+            "distractors": [
+                "dimansion",
+                "dimenssion",
+                "dimenson"
+            ]
+        },
+        {
+            "correct": "diplomatic",
+            "distractors": [
+                "diplomattic",
+                "diplomatec",
+                "diplomaticc"
+            ]
+        },
+        {
+            "correct": "directory",
+            "distractors": [
+                "directary",
+                "derectory",
+                "direactory"
+            ]
+        },
+        {
+            "correct": "disability",
+            "distractors": [
+                "dissability",
+                "disabilitty",
+                "disabillity"
+            ]
+        },
+        {
+            "correct": "disappoint",
+            "distractors": [
+                "dissapoint",
+                "disapoint",
+                "dissappoint"
+            ]
+        },
+        {
+            "correct": "disaster",
+            "distractors": [
+                "disastor",
+                "dissaster",
+                "disasster"
+            ]
+        },
+        {
+            "correct": "discipline",
+            "distractors": [
+                "descipline",
+                "disipline",
+                "disciplene"
+            ]
+        },
+        {
+            "correct": "disguise",
+            "distractors": [
+                "disguize",
+                "disgise",
+                "disguyse"
+            ]
+        },
+        {
+            "correct": "dismantle",
+            "distractors": [
+                "dismantel",
+                "dismantell",
+                "dismantl"
+            ]
+        },
+        {
+            "correct": "dismissal",
+            "distractors": [
+                "dismisal",
+                "dismissel",
+                "dismisel"
+            ]
+        },
+        {
+            "correct": "distribute",
+            "distractors": [
+                "distrbute",
+                "distruibute",
+                "distrbutee"
+            ]
+        },
+        {
+            "correct": "diversity",
+            "distractors": [
+                "diversety",
+                "divercity",
+                "diversitty"
+            ]
+        },
+        {
+            "correct": "domestic",
+            "distractors": [
+                "domastic",
+                "domestik",
+                "domestec"
+            ]
+        },
+        {
+            "correct": "dominant",
+            "distractors": [
+                "dominent",
+                "dominint",
+                "dominatt"
+            ]
+        },
+        {
+            "correct": "dramatic",
+            "distractors": [
+                "drammatic",
+                "drramatic",
+                "drammattic"
+            ]
+        },
+        {
+            "correct": "duplicate",
+            "distractors": [
+                "dupicate",
+                "dublicate",
+                "duplicatte"
+            ]
+        },
+        {
+            "correct": "economy",
+            "distractors": [
+                "econmy",
+                "econemy",
+                "econoomy"
+            ]
+        },
+        {
+            "correct": "edition",
+            "distractors": [
+                "editon",
+                "eddition",
+                "edission"
+            ]
+        },
+        {
+            "correct": "efficient",
+            "distractors": [
+                "efficiant",
+                "effishient",
+                "effecient"
+            ]
+        },
+        {
+            "correct": "elaborate",
+            "distractors": [
+                "elabborate",
+                "elaburate",
+                "elaboratte"
+            ]
+        },
+        {
+            "correct": "elegant",
+            "distractors": [
+                "eligant",
+                "ellagant",
+                "eleegant"
+            ]
+        },
+        {
+            "correct": "eligible",
+            "distractors": [
+                "eligable",
+                "eligiible",
+                "elgible"
+            ]
+        },
+        {
+            "correct": "eliminate",
+            "distractors": [
+                "elimnate",
+                "eliminatee",
+                "elimanate"
+            ]
+        },
+        {
+            "correct": "embassy",
+            "distractors": [
+                "embasy",
+                "embessy",
+                "embassey"
+            ]
+        },
+        {
+            "correct": "emphasis",
+            "distractors": [
+                "emphassis",
+                "emphesis",
+                "emfasys"
+            ]
+        },
+        {
+            "correct": "empirical",
+            "distractors": [
+                "empiricle",
+                "empiracal",
+                "empirrcal"
+            ]
+        },
+        {
+            "correct": "encounter",
+            "distractors": [
+                "encounterr",
+                "encouner",
+                "encotner"
+            ]
+        },
+        {
+            "correct": "endeavour",
+            "distractors": [
+                "endevour",
+                "endevouar",
+                "endavour"
+            ]
+        },
+        {
+            "correct": "endurance",
+            "distractors": [
+                "endurence",
+                "endurannce",
+                "enduranc"
+            ]
+        },
+        {
+            "correct": "engagement",
+            "distractors": [
+                "engagemant",
+                "engagament",
+                "engagementt"
+            ]
+        },
+        {
+            "correct": "enhance",
+            "distractors": [
+                "enhanse",
+                "enhence",
+                "enhaince"
+            ]
+        },
+        {
+            "correct": "enormous",
+            "distractors": [
+                "enourmous",
+                "enormas",
+                "enormuss"
+            ]
+        },
+        {
+            "correct": "enterprise",
+            "distractors": [
+                "enterprize",
+                "enterprisse",
+                "enterprice"
+            ]
+        },
+        {
+            "correct": "entertain",
+            "distractors": [
+                "entertein",
+                "entartein",
+                "entertane"
+            ]
+        },
+        {
+            "correct": "enthusiasm",
+            "distractors": [
+                "enthuiasm",
+                "enthusism",
+                "enthusiam"
+            ]
+        },
+        {
+            "correct": "environment",
+            "distractors": [
+                "enviroment",
+                "enviornment",
+                "enviromentt"
+            ]
+        },
+        {
+            "correct": "episode",
+            "distractors": [
+                "epesode",
+                "episoode",
+                "epissode"
+            ]
+        },
+        {
+            "correct": "equivalent",
+            "distractors": [
+                "equivalant",
+                "equivalint",
+                "equivalant"
+            ]
+        },
+        {
+            "correct": "eradicate",
+            "distractors": [
+                "erradicate",
+                "eradicatte",
+                "eradecate"
+            ]
+        },
+        {
+            "correct": "essential",
+            "distractors": [
+                "essencial",
+                "essentail",
+                "essentel"
+            ]
+        },
+        {
+            "correct": "establish",
+            "distractors": [
+                "establissh",
+                "establsh",
+                "establlish"
+            ]
+        },
+        {
+            "correct": "evaluate",
+            "distractors": [
+                "evalute",
+                "evaluaet",
+                "evalutate"
+            ]
+        },
+        {
+            "correct": "eventually",
+            "distractors": [
+                "eventualy",
+                "eventully",
+                "eventualli"
+            ]
+        },
+        {
+            "correct": "exaggerate",
+            "distractors": [
+                "exagerate",
+                "exagerrate",
+                "exageratte"
+            ]
+        },
+        {
+            "correct": "exceed",
+            "distractors": [
+                "excede",
+                "exceede",
+                "execeed"
+            ]
+        },
+        {
+            "correct": "exception",
+            "distractors": [
+                "exeption",
+                "excaption",
+                "excepsion"
+            ]
+        },
+        {
+            "correct": "exchange",
+            "distractors": [
+                "exchannge",
+                "exhchange",
+                "exchage"
+            ]
+        },
+        {
+            "correct": "exclude",
+            "distractors": [
+                "excluede",
+                "exclode",
+                "exlude"
+            ]
+        },
+        {
+            "correct": "exhaust",
+            "distractors": [
+                "exhoust",
+                "exaust",
+                "exhast"
+            ]
+        },
+        {
+            "correct": "exhibit",
+            "distractors": [
+                "exhibitt",
+                "exhiibit",
+                "exibit"
+            ]
+        },
+        {
+            "correct": "existence",
+            "distractors": [
+                "existance",
+                "exisstance",
+                "exissstence"
+            ]
+        },
+        {
+            "correct": "expansion",
+            "distractors": [
+                "expension",
+                "expanasian",
+                "expannsion"
+            ]
+        },
+        {
+            "correct": "expectation",
+            "distractors": [
+                "expectaion",
+                "expection",
+                "expectasion"
+            ]
+        },
+        {
+            "correct": "expedition",
+            "distractors": [
+                "expidition",
+                "expedetion",
+                "expeditionn"
+            ]
+        },
+        {
+            "correct": "experience",
+            "distractors": [
+                "experiance",
+                "experiense",
+                "experieence"
+            ]
+        },
+        {
+            "correct": "expertise",
+            "distractors": [
+                "expertese",
+                "expertease",
+                "experties"
+            ]
+        },
+        {
+            "correct": "explain",
+            "distractors": [
+                "expalin",
+                "explaine",
+                "explin"
+            ]
+        },
+        {
+            "correct": "explicit",
+            "distractors": [
+                "explicite",
+                "explicitt",
+                "explisit"
+            ]
+        },
+        {
+            "correct": "explosion",
+            "distractors": [
+                "explotion",
+                "explosian",
+                "explossion"
+            ]
+        },
+        {
+            "correct": "extension",
+            "distractors": [
+                "extention",
+                "extensin",
+                "extenction"
+            ]
+        },
+        {
+            "correct": "extraordinary",
+            "distractors": [
+                "extrordinary",
+                "extraordanary",
+                "extrordinery"
+            ]
+        },
+        {
+            "correct": "facility",
+            "distractors": [
+                "faciltiy",
+                "fasility",
+                "faccility"
+            ]
+        },
+        {
+            "correct": "familiar",
+            "distractors": [
+                "familliar",
+                "familar",
+                "familier"
+            ]
+        },
+        {
+            "correct": "fascinate",
+            "distractors": [
+                "facinatte",
+                "fasscinate",
+                "fascinatte"
+            ]
+        },
+        {
+            "correct": "feasible",
+            "distractors": [
+                "feasable",
+                "feisable",
+                "fessible"
+            ]
+        },
+        {
+            "correct": "festival",
+            "distractors": [
+                "festivel",
+                "festval",
+                "festivall"
+            ]
+        },
+        {
+            "correct": "financial",
+            "distractors": [
+                "finencial",
+                "finantial",
+                "financhial"
+            ]
+        },
+        {
+            "correct": "flexible",
+            "distractors": [
+                "flexibel",
+                "flexabble",
+                "flexable"
+            ]
+        },
+        {
+            "correct": "forbidden",
+            "distractors": [
+                "forbiden",
+                "forbideen",
+                "forbdden"
+            ]
+        },
+        {
+            "correct": "forecast",
+            "distractors": [
+                "forcast",
+                "forecaste",
+                "forrcast"
+            ]
+        },
+        {
+            "correct": "formation",
+            "distractors": [
+                "formetion",
+                "formatoin",
+                "formasion"
+            ]
+        },
+        {
+            "correct": "fortunate",
+            "distractors": [
+                "fortunete",
+                "furtunate",
+                "fortunnate"
+            ]
+        },
+        {
+            "correct": "friction",
+            "distractors": [
+                "friktion",
+                "frictian",
+                "frictionn"
+            ]
+        },
+        {
+            "correct": "function",
+            "distractors": [
+                "fuction",
+                "funtcion",
+                "funcsion"
+            ]
+        },
+        {
+            "correct": "furniture",
+            "distractors": [
+                "furneture",
+                "furnitre",
+                "farniture"
+            ]
+        },
+        {
+            "correct": "generate",
+            "distractors": [
+                "generete",
+                "generrate",
+                "genarate"
+            ]
+        },
+        {
+            "correct": "generation",
+            "distractors": [
+                "generetion",
+                "generration",
+                "genaration"
+            ]
+        },
+        {
+            "correct": "genuine",
+            "distractors": [
+                "geniune",
+                "genuin",
+                "genune"
+            ]
+        },
+        {
+            "correct": "governor",
+            "distractors": [
+                "governer",
+                "governar",
+                "governorr"
+            ]
+        },
+        {
+            "correct": "gratitude",
+            "distractors": [
+                "gratitute",
+                "gratitiude",
+                "gratitud"
+            ]
+        },
+        {
+            "correct": "guarantee",
+            "distractors": [
+                "guarentee",
+                "gurantee",
+                "guarrantee"
+            ]
+        },
+        {
+            "correct": "habitat",
+            "distractors": [
+                "habbitat",
+                "habitatt",
+                "habitet"
+            ]
+        },
+        {
+            "correct": "heritage",
+            "distractors": [
+                "herritage",
+                "hertige",
+                "heritaje"
+            ]
+        },
+        {
+            "correct": "hesitate",
+            "distractors": [
+                "hesitete",
+                "hesetate",
+                "hezitate"
+            ]
+        },
+        {
+            "correct": "highlight",
+            "distractors": [
+                "higlight",
+                "highlite",
+                "highligh"
+            ]
+        },
+        {
+            "correct": "historical",
+            "distractors": [
+                "histrorical",
+                "historicle",
+                "historrical"
+            ]
+        },
+        {
+            "correct": "humorous",
+            "distractors": [
+                "humourous",
+                "humerous",
+                "humorrus"
+            ]
+        },
+        {
+            "correct": "identify",
+            "distractors": [
+                "identefy",
+                "identtify",
+                "idendify"
+            ]
+        },
+        {
+            "correct": "illusion",
+            "distractors": [
+                "ilusion",
+                "illussion",
+                "illusian"
+            ]
+        },
+        {
+            "correct": "imagination",
+            "distractors": [
+                "imaginatoin",
+                "imaginasion",
+                "imagenation"
+            ]
+        },
+        {
+            "correct": "immense",
+            "distractors": [
+                "imensse",
+                "immence",
+                "imense"
+            ]
+        },
+        {
+            "correct": "immunity",
+            "distractors": [
+                "immunnity",
+                "immunety",
+                "imunity"
+            ]
+        },
+        {
+            "correct": "impact",
+            "distractors": [
+                "impakt",
+                "impacct",
+                "impackt"
+            ]
+        },
+        {
+            "correct": "impatient",
+            "distractors": [
+                "impattient",
+                "impashent",
+                "impateint"
+            ]
+        },
+        {
+            "correct": "implement",
+            "distractors": [
+                "impliment",
+                "implemant",
+                "implemment"
+            ]
+        },
+        {
+            "correct": "importance",
+            "distractors": [
+                "importence",
+                "importantce",
+                "importanse"
+            ]
+        },
+        {
+            "correct": "impossible",
+            "distractors": [
+                "impossable",
+                "imposible",
+                "impossibel"
+            ]
+        },
+        {
+            "correct": "impress",
+            "distractors": [
+                "impres",
+                "impresss",
+                "imprese"
+            ]
+        },
+        {
+            "correct": "impression",
+            "distractors": [
+                "impresson",
+                "impresion",
+                "impressionn"
+            ]
+        },
+        {
+            "correct": "improvement",
+            "distractors": [
+                "improvment",
+                "improovment",
+                "improment"
+            ]
+        },
+        {
+            "correct": "incident",
+            "distractors": [
+                "insident",
+                "incidant",
+                "inciddent"
+            ]
+        },
+        {
+            "correct": "inclined",
+            "distractors": [
+                "inclinned",
+                "inclind",
+                "inclyned"
+            ]
+        },
+        {
+            "correct": "indicate",
+            "distractors": [
+                "indecate",
+                "indicatte",
+                "indicatee"
+            ]
+        },
+        {
+            "correct": "indirect",
+            "distractors": [
+                "indirrect",
+                "inderect",
+                "indirectt"
+            ]
+        },
+        {
+            "correct": "indispensable",
+            "distractors": [
+                "indispensible",
+                "indispenable",
+                "indispenablee"
+            ]
+        },
+        {
+            "correct": "individual",
+            "distractors": [
+                "individial",
+                "individuel",
+                "indivisual"
+            ]
+        },
+        {
+            "correct": "inequality",
+            "distractors": [
+                "inequalty",
+                "inequlity",
+                "inequalitty"
+            ]
+        },
+        {
+            "correct": "infectious",
+            "distractors": [
+                "infecious",
+                "infectous",
+                "infectius"
+            ]
+        },
+        {
+            "correct": "inflation",
+            "distractors": [
+                "inflashion",
+                "infation",
+                "inflasion"
+            ]
+        },
+        {
+            "correct": "influence",
+            "distractors": [
+                "influnce",
+                "influance",
+                "influense"
+            ]
+        },
+        {
+            "correct": "ingredient",
+            "distractors": [
+                "ingreedient",
+                "ingrediant",
+                "ingridient"
+            ]
+        },
+        {
+            "correct": "inhabitant",
+            "distractors": [
+                "inhabbittant",
+                "inhabitent",
+                "inhabitentt"
+            ]
+        },
+        {
+            "correct": "initiative",
+            "distractors": [
+                "initative",
+                "innitiative",
+                "initiatte"
+            ]
+        },
+        {
+            "correct": "injury",
+            "distractors": [
+                "injurry",
+                "injerey",
+                "injuru"
+            ]
+        },
+        {
+            "correct": "innovation",
+            "distractors": [
+                "innovetion",
+                "innivation",
+                "innovasion"
+            ]
+        },
+        {
+            "correct": "insight",
+            "distractors": [
+                "insite",
+                "insigth",
+                "insyte"
+            ]
+        },
+        {
+            "correct": "inspect",
+            "distractors": [
+                "inspeckt",
+                "inspeect",
+                "inspec"
+            ]
+        },
+        {
+            "correct": "installation",
+            "distractors": [
+                "instalation",
+                "installatoin",
+                "instellation"
+            ]
+        },
+        {
+            "correct": "instance",
+            "distractors": [
+                "instanse",
+                "instanse",
+                "instence"
+            ]
+        },
+        {
+            "correct": "instinct",
+            "distractors": [
+                "instinctt",
+                "instincte",
+                "insstinct"
+            ]
+        },
+        {
+            "correct": "institute",
+            "distractors": [
+                "institte",
+                "institue",
+                "instatute"
+            ]
+        },
+        {
+            "correct": "instruct",
+            "distractors": [
+                "instrukt",
+                "instrct",
+                "instruction"
+            ]
+        },
+        {
+            "correct": "instrument",
+            "distractors": [
+                "instrement",
+                "instrumant",
+                "instrumint"
+            ]
+        },
+        {
+            "correct": "insurance",
+            "distractors": [
+                "insurence",
+                "insurannce",
+                "insurrance"
+            ]
+        },
+        {
+            "correct": "integrate",
+            "distractors": [
+                "integreate",
+                "intigrate",
+                "integratte"
+            ]
+        },
+        {
+            "correct": "intelligent",
+            "distractors": [
+                "inteligent",
+                "intellgent",
+                "intellgient"
+            ]
+        },
+        {
+            "correct": "intensity",
+            "distractors": [
+                "intencity",
+                "intesity",
+                "intensitty"
+            ]
+        },
+        {
+            "correct": "interact",
+            "distractors": [
+                "interakt",
+                "interract",
+                "interect"
+            ]
+        },
+        {
+            "correct": "intermediate",
+            "distractors": [
+                "intermedate",
+                "intermediete",
+                "intermmediat"
+            ]
+        },
+        {
+            "correct": "interrogate",
+            "distractors": [
+                "interogate",
+                "interregate",
+                "interogatte"
+            ]
+        },
+        {
+            "correct": "interrupt",
+            "distractors": [
+                "interupt",
+                "interruppt",
+                "interrpt"
+            ]
+        },
+        {
+            "correct": "interval",
+            "distractors": [
+                "intervel",
+                "intervall",
+                "intarval"
+            ]
+        },
+        {
+            "correct": "intervention",
+            "distractors": [
+                "intervetion",
+                "intervension",
+                "intervantion"
+            ]
+        },
+        {
+            "correct": "intimate",
+            "distractors": [
+                "intemate",
+                "intimatte",
+                "intmate"
+            ]
+        },
+        {
+            "correct": "intimidate",
+            "distractors": [
+                "intemidate",
+                "intimmidate",
+                "intimiddatte"
+            ]
+        },
+        {
+            "correct": "invisible",
+            "distractors": [
+                "invisable",
+                "invisibel",
+                "invisibl"
+            ]
+        },
+        {
+            "correct": "irregular",
+            "distractors": [
+                "irreguler",
+                "irregullar",
+                "iregular"
+            ]
+        },
+        {
+            "correct": "irresponsible",
+            "distractors": [
+                "irresponcible",
+                "irresponssible",
+                "irresponible"
+            ]
+        },
+        {
+            "correct": "isolation",
+            "distractors": [
+                "isolatoin",
+                "isolasion",
+                "isoletion"
+            ]
+        },
+        {
+            "correct": "jealousy",
+            "distractors": [
+                "jelousy",
+                "jealoussey",
+                "jellousy"
+            ]
+        },
+        {
+            "correct": "journalist",
+            "distractors": [
+                "jourrnallist",
+                "journalest",
+                "jurnalist"
+            ]
+        },
+        {
+            "correct": "judgment",
+            "distractors": [
+                "judgement",
+                "judgmant",
+                "judgmennt"
+            ]
+        },
+        {
+            "correct": "justify",
+            "distractors": [
+                "justfy",
+                "justiffy",
+                "jusstify"
+            ]
+        },
+        {
+            "correct": "juvenile",
+            "distractors": [
+                "juvinile",
+                "juvanile",
+                "juvinille"
+            ]
+        },
+        {
+            "correct": "keyboard",
+            "distractors": [
+                "keybord",
+                "keyboord",
+                "keyboarrd"
+            ]
+        },
+        {
+            "correct": "knowledgeable",
+            "distractors": [
+                "knowledgable",
+                "knowladgable",
+                "knoweledgeable"
+            ]
+        },
+        {
+            "correct": "landscape",
+            "distractors": [
+                "landscepe",
+                "landskape",
+                "lendscape"
+            ]
+        },
+        {
+            "correct": "legitimate",
+            "distractors": [
+                "legitemate",
+                "legitmate",
+                "legitimmate"
+            ]
+        },
+        {
+            "correct": "leisure",
+            "distractors": [
+                "liesure",
+                "leisurre",
+                "leysure"
+            ]
+        },
+        {
+            "correct": "lengthy",
+            "distractors": [
+                "lenghty",
+                "lengthyy",
+                "lenghthy"
+            ]
+        },
+        {
+            "correct": "liability",
+            "distractors": [
+                "liabilty",
+                "liabbility",
+                "liabilitty"
+            ]
+        },
+        {
+            "correct": "library",
+            "distractors": [
+                "libary",
+                "librery",
+                "librry"
+            ]
+        },
+        {
+            "correct": "linguistic",
+            "distractors": [
+                "lingustic",
+                "linguestic",
+                "lingistic"
+            ]
+        },
+        {
+            "correct": "literary",
+            "distractors": [
+                "literery",
+                "literarry",
+                "litterary"
+            ]
+        },
+        {
+            "correct": "logical",
+            "distractors": [
+                "logicle",
+                "logicel",
+                "loggical"
+            ]
+        },
+        {
+            "correct": "luxury",
+            "distractors": [
+                "luxarry",
+                "luxery",
+                "luxuree"
+            ]
+        },
+        {
+            "correct": "maintain",
+            "distractors": [
+                "mantain",
+                "maintane",
+                "maintainn"
+            ]
+        },
+        {
+            "correct": "majority",
+            "distractors": [
+                "majorty",
+                "majoritty",
+                "maajority"
+            ]
+        },
+        {
+            "correct": "manufacture",
+            "distractors": [
+                "manufecture",
+                "manufacter",
+                "manufacturre"
+            ]
+        },
+        {
+            "correct": "maturity",
+            "distractors": [
+                "maturitty",
+                "maturrity",
+                "matturity"
+            ]
+        },
+        {
+            "correct": "mechanical",
+            "distractors": [
+                "machanical",
+                "mechannical",
+                "mechanicle"
+            ]
+        },
+        {
+            "correct": "membership",
+            "distractors": [
+                "memborship",
+                "memberchip",
+                "memebership"
+            ]
+        },
+        {
+            "correct": "memorable",
+            "distractors": [
+                "memmorabel",
+                "memorablee",
+                "memorible"
+            ]
+        },
+        {
+            "correct": "metaphor",
+            "distractors": [
+                "metafor",
+                "metapher",
+                "metaphore"
+            ]
+        },
+        {
+            "correct": "migration",
+            "distractors": [
+                "migratoin",
+                "migrasion",
+                "migretion"
+            ]
+        },
+        {
+            "correct": "military",
+            "distractors": [
+                "millitary",
+                "militery",
+                "milatary"
+            ]
+        },
+        {
+            "correct": "minimum",
+            "distractors": [
+                "minimun",
+                "minimumm",
+                "minimim"
+            ]
+        },
+        {
+            "correct": "minority",
+            "distractors": [
+                "minoritty",
+                "minnorityy",
+                "minnority"
+            ]
+        },
+        {
+            "correct": "miracle",
+            "distractors": [
+                "mirracle",
+                "miracal",
+                "mirricle"
+            ]
+        },
+        {
+            "correct": "mysterious",
+            "distractors": [
+                "mysteerious",
+                "mysterius",
+                "mysterios"
+            ]
+        }
+    ]
+}
