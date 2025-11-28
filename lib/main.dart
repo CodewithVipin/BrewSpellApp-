@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:spelling_improve/screens/pack_selection_screen.dart';
+import 'package:spelling_improve/screens/home_screen.dart';
 import 'theme/coffee_theme.dart';
 
 void main() {
@@ -16,7 +16,7 @@ class BrewSpellApp extends StatelessWidget {
       theme: lightCoffeeTheme,
       darkTheme: darkCoffeeTheme,
       themeMode: ThemeMode.system,
-      home: const PackSelectionScreen(),
+      home: const HomeScreen(),
 
       debugShowCheckedModeBanner: false,
     );
