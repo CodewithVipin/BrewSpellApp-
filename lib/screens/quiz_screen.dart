@@ -56,9 +56,9 @@ class _QuizScreenState extends State<QuizScreen> {
     });
 
     if (isCorrect) {
-      SoundPlayer.playCorrect();
+      SoundPlayer.correct();
     } else {
-      SoundPlayer.playWrong();
+      SoundPlayer.wrong();
     }
   }
 
@@ -72,7 +72,7 @@ class _QuizScreenState extends State<QuizScreen> {
   }
 
   void _finish() {
-    SoundPlayer.playFinish();
+    SoundPlayer.finish();
     showDialog(
       context: context,
       barrierDismissible: false,

@@ -1,8 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:spelling_improve/screens/home_screen.dart';
+import 'package:spelling_improve/utils/sound_player.dart';
 import 'theme/coffee_theme.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await SoundPlayer.preload(); // Load once before app
+
   runApp(const BrewSpellApp());
 }
 

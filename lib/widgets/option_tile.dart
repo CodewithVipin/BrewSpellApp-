@@ -44,21 +44,21 @@ class OptionTile extends StatelessWidget {
         boxShadow: [
           if (selected && !answered)
             BoxShadow(
-              color: Colors.orangeAccent.withOpacity(0.4),
-              blurRadius: 12,
-              offset: const Offset(0, 5),
+              color: Colors.orangeAccent.withOpacity(0.25),
+              blurRadius: 4,
+              offset: const Offset(0, 2),
             ),
           if (answered && isCorrect)
             BoxShadow(
-              color: Colors.greenAccent.withOpacity(0.4),
-              blurRadius: 12,
-              offset: const Offset(0, 5),
+              color: Colors.greenAccent.withOpacity(0.25),
+              blurRadius: 4,
+              offset: const Offset(0, 2),
             ),
           if (answered && isWrong)
             BoxShadow(
-              color: Colors.redAccent.withOpacity(0.4),
-              blurRadius: 12,
-              offset: const Offset(0, 5),
+              color: Colors.redAccent.withOpacity(0.25),
+              blurRadius: 4,
+              offset: const Offset(0, 2),
             ),
         ],
       ),
