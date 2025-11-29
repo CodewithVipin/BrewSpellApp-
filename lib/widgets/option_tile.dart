@@ -20,39 +20,67 @@ class OptionTile extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    Color? bg;
-    IconData? icon;
+    bool isCorrect = text == correct;
+    bool isWrong = selected && !isCorrect;
+
+    Color baseColor = const Color(0xFF1A1A1A);
+    Color borderColor = Colors.transparent;
 
     if (answered) {
-      if (selected && text == correct) {
-        bg = Colors.green.withOpacity(0.15);
-        icon = Icons.check_circle;
-      } else if (selected && text != correct) {
-        bg = Colors.red.withOpacity(0.15);
-        icon = Icons.cancel;
-      } else if (text == correct) {
-        bg = Colors.green.withOpacity(0.10);
-      }
+      if (isCorrect) borderColor = Colors.greenAccent;
+      if (isWrong) borderColor = Colors.redAccent;
+    } else if (selected) {
+      borderColor = Colors.orangeAccent;
     }
 
     return AnimatedContainer(
       duration: const Duration(milliseconds: 250),
-      margin: const EdgeInsets.symmetric(vertical: 8),
+      margin: const EdgeInsets.symmetric(vertical: 10, horizontal: 10),
+      padding: const EdgeInsets.all(18),
       decoration: BoxDecoration(
-        color: bg ?? Theme.of(context).cardColor,
-        borderRadius: BorderRadius.circular(12),
-        border: Border.all(
-          color: selected ? Theme.of(context).primaryColor : Colors.transparent,
-          width: selected ? 2 : 0,
-        ),
+        color: baseColor,
+        borderRadius: BorderRadius.circular(16),
+        border: Border.all(color: borderColor, width: 2),
+        boxShadow: [
+          if (selected && !answered)
+            BoxShadow(
+              color: Colors.orangeAccent.withOpacity(0.4),
+              blurRadius: 12,
+              offset: const Offset(0, 5),
+            ),
+          if (answered && isCorrect)
+            BoxShadow(
+              color: Colors.greenAccent.withOpacity(0.4),
+              blurRadius: 12,
+              offset: const Offset(0, 5),
+            ),
+          if (answered && isWrong)
+            BoxShadow(
+              color: Colors.redAccent.withOpacity(0.4),
+              blurRadius: 12,
+              offset: const Offset(0, 5),
+            ),
+        ],
       ),
-      child: ListTile(
+      child: InkWell(
         onTap: onTap,
-        title: Text(
-          text,
-          style: Theme.of(context).textTheme.bodyLarge?.copyWith(fontSize: 16),
+        borderRadius: BorderRadius.circular(16),
+        child: Row(
+          children: [
+            Expanded(
+              child: Text(
+                text,
+                style: const TextStyle(fontSize: 18, color: Colors.white70),
+              ),
+            ),
+
+            if (answered && isCorrect)
+              const Icon(Icons.check_circle, color: Colors.greenAccent),
+
+            if (answered && isWrong)
+              const Icon(Icons.cancel, color: Colors.redAccent),
+          ],
         ),
-        trailing: icon == null ? null : Icon(icon),
       ),
     );
   }

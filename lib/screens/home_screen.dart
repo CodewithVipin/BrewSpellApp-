@@ -1,8 +1,9 @@
-// ignore_for_file: deprecated_member_use
+// ignore_for_file: deprecated_member_use, use_build_context_synchronously
 
 import 'package:flutter/material.dart';
 import 'dart:math' as math;
 import 'package:spelling_improve/screens/pack_selection_screen.dart';
+import 'package:spelling_improve/utils/sound_player.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -128,7 +129,8 @@ class _HomeScreenState extends State<HomeScreen>
                       borderRadius: BorderRadius.circular(40),
                     ),
                   ),
-                  onPressed: () {
+                  onPressed: () async {
+                    await SoundPlayer.playStart();
                     Navigator.push(
                       context,
                       MaterialPageRoute(
